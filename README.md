@@ -1,2 +1,2 @@
-# my-first-repo
-Learning github step by step
+# My First Repository
+Hello GitHub! I am learning this inside out.
